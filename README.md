@@ -39,5 +39,3 @@ Dự án được phát triển hoàn toàn bằng **Kotlin** + **Jetpack Compos
 
 ## 🤝 Đóng góp
 Hoan nghênh mọi ý kiến, báo lỗi hoặc Pull Request.  
-Tạo Issue tại:  
-`https://github.com/lee-vtruong/Android-Pose-Skeleton/issues`
